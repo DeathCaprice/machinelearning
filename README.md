@@ -9,3 +9,6 @@ pythonの機械学習で野球の予測アプリを作成中です。
 baseballpredictionapp/baseballmatchprediction.py は試合予測アプリ
 
 baseballpredictionapp/battingorderdecisionapp.py は打順を決定するアプリです。
+
+野球試合予測アプリが完成しました。
+baseballgamepredictionapp.pyは、試合予測アプリです、
